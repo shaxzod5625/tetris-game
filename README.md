@@ -4,8 +4,9 @@ Hello my dear peer reviewer!
 
 I create that tetris game imlementation
 
-you can run server:
+You can run server:
+    npm install
+        then
     node app.js
 and could see my game:
-    https://web-XXXXXXXX-XXXX.docodev2.qwasar.io/
 
